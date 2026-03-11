@@ -5,5 +5,3 @@ def promedio(n):
 
 
 
-notas = [4, 3, 5]
-print(promedio(notas))
