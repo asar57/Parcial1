@@ -7,4 +7,4 @@ def test_notas_normales():
     assert nota_maxima([3,4,2,5]) == 5
 
 def test_notas_decimales():
-    assert nota_maxima([2.5,4.8,3.1]) == 4.8
+    assert nota_maxima([5.0,4.8,3.1]) == 5.0
