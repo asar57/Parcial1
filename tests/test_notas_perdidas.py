@@ -5,7 +5,7 @@ def test_arreglo_vacio():
 
 def test_notas_perdidas_varias():
     # 2 notas perdidas (2.5 y 1.0)
-    assert notas_perdidas([2.5, 4.0, 1.0, 3.5]) == 2
+    assert notas_perdidas([6, 4.0, 1.0, 3.5]) == 2
 
 def test_todas_aprobadas():
     # ninguna nota menor a 3.0
